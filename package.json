@@ -17,5 +17,9 @@
         "path": "./themes/Dark-Arui-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Feudalman/dark-arui.git"
   }
 }
