@@ -32,7 +32,7 @@ Dark-Arui is a dark theme designed for long coding sessions, featuring a unified
 
 ## 📦 Installation
 
-### Install from VS Code Marketplace (Not Available Yet)
+### Install from VS Code Marketplace
 
 1. Open VS Code
 2. Press `Cmd+Shift+X` (macOS) or `Ctrl+Shift+X` (Windows/Linux) to open Extensions panel

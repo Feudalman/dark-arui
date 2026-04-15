@@ -30,7 +30,7 @@ Dark-Arui 是一款专为长时间编码设计的暗色主题,采用统一的深
 
 ## 📦 安装
 
-### 从 VS Code Marketplace 安装(暂无)
+### 从 VS Code Marketplace 安装
 
 1. 打开 VS Code
 2. 按 `Cmd+Shift+X` (macOS) 或 `Ctrl+Shift+X` (Windows/Linux) 打开扩展面板
