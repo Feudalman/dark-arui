@@ -4,7 +4,7 @@
 
 **Black enough**
 
-Dark-Arui is a dark theme designed for long coding sessions, featuring a unified deep black background and low-contrast design to create an immersive development experience. The syntax highlighting, primarily based on green and cyan tones, is both gentle and distinctive, making code reading more comfortable.
+Dark-Arui is a dark theme designed for long coding sessions, featuring a unified deep black background to create an immersive development experience. The updated syntax palette feels lighter and brighter: high-frequency variables stay close to white, keywords use cyan, strings and comments use green tones, and red is mostly reserved for errors and deleted content.
 
 ![example](example.png)
 
@@ -13,22 +13,29 @@ Dark-Arui is a dark theme designed for long coding sessions, featuring a unified
 ### Primary Colors
 
 - **Background**: `#0a0a0a` - Deep Black
-- **Text**: `#e0e0e0` - Soft Light Gray
+- **Text**: `#f1f2e6` - Warm White
 
 ### Syntax Highlighting
 
-- **Strings**: `#7fb069` - Soft Green
-- **Keywords**: `#5dbcd2` - Cyan
-- **Functions**: `#52b788` - Bright Green
-- **Numbers/Constants**: `#d4a574` - Soft Yellow
-- **Types/Classes**: `#6db3d4` - Soft Blue
-- **Comments**: `#6b7d7d` - Gray-Cyan, balanced visibility
+- **Variables**: `#f1f2e6` - Warm white, calm for high-frequency code
+- **Strings**: `#9be564` - Bright Lime
+- **Keywords**: `#5ccfe6` - Soft Cyan
+- **Functions**: `#67d8ef` - Soft Blue-Cyan
+- **Methods**: `#67d8ef` - Soft Blue-Cyan
+- **Numbers/Constants**: `#ffd166` - Bright Amber
+- **Types/Classes/Decorators**: `#c792ea` - Violet, used for mid-frequency structure
+- **Object Keys/Properties**: `#a7c7ff` - Soft Bright Blue, distinct from string green
+- **HTML/CSS Attributes**: `#b7f774` - Light Yellow-Green
+- **Parameters**: `#b8dcae` - Clearer Soft Green
+- **Tags/Markdown Headings**: `#5ccfe6` - Soft Cyan
+- **Operators/Punctuation**: `#8fb3c7` - Low-stimulation Blue Gray
+- **Comments**: `#b8c8b880` - Half-transparent Pale Gray Green, subtle but easier to read
 
 ### Status Colors
 
-- **Error**: `#d46a6a` - Soft Red
-- **Warning**: `#d4a574` - Yellow-Orange
-- **Info**: `#6db3d4` - Blue
+- **Error**: `#ff6b7a` - Soft Red, reserved for errors/deletions
+- **Warning**: `#ffd166` - Amber
+- **Info**: `#8aadff` - Periwinkle
 
 ## 📦 Installation
 
