@@ -3,7 +3,8 @@
   "publisher": "arui",
   "displayName": "Dark-Arui",
   "description": "Black enough",
-  "version": "0.0.4",
+  "icon": "icon.png",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.115.0"
   },
