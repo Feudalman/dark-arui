@@ -4,7 +4,7 @@
   "displayName": "Dark-Arui",
   "description": "Black enough",
   "icon": "icon.png",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "engines": {
     "vscode": "^1.115.0"
   },
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark-Arui",
+        "label": "Dark Arui",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Arui-color-theme.json"
       },
