@@ -17,6 +17,11 @@
         "label": "Dark-Arui",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Arui-color-theme.json"
+      },
+      {
+        "label": "Dark Arui Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Arui-Dimmed-color-theme.json"
       }
     ]
   },
