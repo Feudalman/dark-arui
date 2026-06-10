@@ -105,7 +105,7 @@
 		"terminal.ansiBrightWhite": "#d1d1d1",
 		"list.activeSelectionBackground": "#143b45",
 		"list.activeSelectionForeground": "#e0e1d6",
-		"list.inactiveSelectionBackground": "#181818",
+		"list.inactiveSelectionBackground": "#143b45",
 		"list.inactiveSelectionForeground": "#e0e1d6",
 		"list.hoverBackground": "#0d1019",
 		"list.hoverForeground": "#c6c6bd",
